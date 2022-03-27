@@ -1,0 +1,8 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+jar{
+    baseName='S3.02'
+}
+mainClassName= 'Principal'
