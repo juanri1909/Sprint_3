@@ -38,7 +38,8 @@ public class Principal{
         	}
         }
         a1.setActualizacion(false);
-        a3.setActualizacion(false);
+        a2.setActualizacion(false);
+        a6.setActualizacion(false);
    
         
         
